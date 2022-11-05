@@ -3,7 +3,7 @@ Online E-learning Platform (Vertex_Academy)
 
 A web development project under supervision of
 
-Dr. Kazi Masudul Alam, Professor Computer Science and Engineering Discipline (cseku.ac.bd) Khulna University, Khulna Bangladesh.
+Professor Dr. Kazi Masudul Alam, Computer Science and Engineering Discipline (cseku.ac.bd) Khulna University, Khulna Bangladesh.
 
 How to use it:
 
