@@ -1,0 +1,41 @@
+.header{
+     margin-top: 10px;
+    padding: 35px;
+    
+}
+.header h1{
+    text-align: center;
+    
+    
+    background: #171470;
+    padding: 35px;
+    color: aliceblue;
+    
+}
+.custom_button {
+    margin-top: 20px;
+   
+    border-radius: 10px;
+    background: #171470;
+    
+    width: 1240px;
+    height: 150px;
+    margin-left: 20px;
+    
+    
+}
+.custom_button a{
+    
+    background: #171470;
+    text-align: center;
+}
+.button_pad{
+    padding: 55px;
+}
+body{
+    background: #c8e8e7;
+}
+.visit a{
+    text-align: center;
+    margin: 0 auto;
+}

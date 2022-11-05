@@ -1,0 +1,145 @@
+.margincs{
+    margin-top: 20px;
+}
+/*
+.custom_btn{
+   margin-left: 800px;
+
+  
+   
+}
+.custom_border{
+    
+    border-top: 1px solid blue;
+    border-bottom: 1px solid black;
+}
+
+*/
+/*
+nav.navbar.custom_border{
+    
+height: 1000px;
+}
+*/
+/*
+.custom_header{
+    
+    margin: 10px auto;
+    padding: 10px;
+}
+*/
+
+.logo-class{
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+}
+nav.black ul{
+    background: #e7b9eb;
+    padding: 20px 30px;
+}
+.custom-margin{
+   
+}
+/*
+.newsection{
+    margin-top: 150x;
+    padding: 100px;
+}*/
+
+.custom_btn{
+    display: flex;
+}
+
+
+/*profile fetch*/
+
+
+
+.user-pic-info{
+    width: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+  
+}
+.sub-menu-wrap{
+    position: absolute;
+    top:100%;
+    right: 10%;
+    width:340px;
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.5s;
+}
+
+.sub-menu-wrap.open-menu{
+    max-height: 400px;
+    max-width: 600px;
+}
+.sub-menu{
+    background: #fff;
+    padding: 20px;
+    margin:10px;
+}
+.user-info{
+    display: flex;
+    align-items: center;
+    
+}
+.user-info h3{
+    font-weight: 500;
+    
+}
+.user-info img{
+    width: 60px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.sub-menu hr{
+    border:0;
+    height: 1px;
+    width: 100%;
+    background: #ccc;
+    margin: 15px 0 10px;
+    
+}
+.sub-menu a{
+    text-decoration: none;
+    color: black;
+}
+.sub-menu-link{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color:#525252;
+    margin:12px 0 ;
+}
+.sub-menu-link p{
+    width: 100%;
+    
+    
+    
+    
+}
+.sub-menu-link img{
+    width: 40px;
+    border-radius: 50%;
+    background: #e5e5e5;
+    padding: 8px;
+    margin-right: 15px;
+    
+}
+.sub-menu-link span{
+    font-size: 22px;
+    transition: transform 0.5s;
+}
+.sub-menu-link:hover span{
+    transform: translateX(5px);
+}
+.sub-menu-link:hover p{
+    font-weight: 600;
+    
+    
+}
+
